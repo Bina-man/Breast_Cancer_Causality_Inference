@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-# from causalnex.plots import plot_structure, NODE_STYLE, EDGE_STYLE
+from causalnex.plots import plot_structure, NODE_STYLE, EDGE_STYLE
 from IPython.display import Markdown, display, Image, display_html
 
 
